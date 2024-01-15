@@ -1,0 +1,13 @@
+I am orange !,2024-01-04 09:21:14.838989,
+upi://pay?pa=7536872509379@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1459691452,2024-01-04 09:21:24.232802,
+Hey, I am a QR code and I am trapped inside Felipe's computer. Please help!,2024-01-04 09:21:29.947790,
+upi://pay?pa=7536872509379@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1459691452,2024-01-04 09:22:10.962763,
+I am orange !,2024-01-15 15:09:53.756450
+I am orange !,2024-01-15 15:37:55.733373
+upi://pay?pa=7536872509379@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1459691452,2024-01-15 15:38:01.946034
+upi://pay?pa=7534927004@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1373301865,2024-01-15 15:38:06.552982
+21BCS8898,2024-01-15 15:38:12.228796
+21BCS8901,2024-01-15 15:38:19.301313
+21BCS8016,2024-01-15 15:38:26.836282
+upi://pay?pa=7534927004@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1373301865,2024-01-15 15:38:54.248343
+upi://pay?pa=7536872509379@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1459691452,2024-01-15 15:39:12.874839
