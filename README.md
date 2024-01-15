@@ -1,13 +1,20 @@
 QR_Reader_Attendence_System
 
+Results ==> 
+
 Image_1
-![Screenshot (233)](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/8d94c2c3-e949-46f0-a07e-d2092ff7f639)
+![Screenshot 2024-01-15 190828](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/712a891a-8a74-4a5d-8b6d-928d619aeeb3)
 
 Image_2
-![Screenshot (232)](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/9124f9a0-31d9-49fc-b376-95f194fdc883)
+![Screenshot 2024-01-15 190809](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/022ff493-104a-4c78-b156-c2ad546a7b92)
 
 Image_3
-![Screenshot (231)](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/0726e1ae-b2b5-4c3b-899a-7d6787138769)
+![Screenshot 2024-01-15 190750](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/646f4ee5-4213-4f58-88b4-9f1a4ecce9a1)
 
 Image_4
-![Screenshot (229)](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/358dcce2-e2e8-4d05-acbf-a485a07cc120)
+![Screenshot 2024-01-15 190854](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/f92d55b5-6e4e-4392-8c88-4390e2dcba0d)
+
+Image_5
+![Screenshot 2024-01-15 190843](https://github.com/NITIN3523/QR_Reader_Attendence_System/assets/84659412/65aa8725-f81e-457e-86c4-9509c53a83ad)
+
+
